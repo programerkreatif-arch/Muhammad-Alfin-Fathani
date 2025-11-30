@@ -9,10 +9,15 @@ Repository ini dibuat untuk memenuhi Tugas 6 mata kuliah Manajemen Proyek RPL, y
 ## Progress Belajar
 - [x] Setup Git lokal
 - [x] Buat repository GitHub
-- [ ] Commit pertama
+- [x] Commit pertama
 
 ## Rencana Fitur Aplikasi KelasIT
 - Halaman landing page informasi kursus
 - Halaman daftar kursus populer
 - Halaman detail kursus (video, materi, kuis)
 - Halaman profil pengguna dan progress belajar
+
+## Struktur Folder (Rencana)
+- /design : aset desain Figma / gambar
+- /src : kode sumber landing page
+- /docs : dokumentasi tambahan
